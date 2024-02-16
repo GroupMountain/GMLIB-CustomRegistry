@@ -1,2 +1,2 @@
-# GMLIB-Plugin-Template
-Template for plugins using GMLIB
+# GMLIB-CustomRegistry
+Custom Registries, such as items, blocks, entities...
